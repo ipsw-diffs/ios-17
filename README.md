@@ -14,7 +14,7 @@ release sequence is implied.
 | --- | --- | --- |
 | `iPad` | [17.7.5 (21H420) → 17.7.6 (21H423)](diffs/17_7_5_21H420__vs_17_7_6_21H423/README.md) | [provenance](manifests/17_7_5_21H420__vs_17_7_6_21H423.json) |
 | `iPad` | [17.7.7 (21H433) → 17.7.8 (21H440)](diffs/17_7_7_21H433__vs_17_7_8_21H440/README.md) | [provenance](manifests/17_7_7_21H433__vs_17_7_8_21H440.json) |
-| `iPad7,5` | [17.7.9 (21H446) → 17.7.10 (21H450)](diffs/17_7_9_21H446_vs_17_7_10_21H450/README.md) | [provenance](manifests/17_7_9_21H446_vs_17_7_10_21H450.json) |
+| `iPad7,5` | [17.7.10 (21H450) → 17.7.11 (21H461)](diffs/17_7_10_21H450_vs_17_7_11_21H461/README.md) | [provenance](manifests/17_7_10_21H450_vs_17_7_11_21H461.json) |
 | `iPhone15,2` | [17.0.1 (21A340) → 17.0.2 (21A351)](diffs/17_0_1_21A340__vs_17_0_2_21A351/README.md) | [provenance](manifests/17_0_1_21A340__vs_17_0_2_21A351.json) |
 | `iPhone15,2` | [17.0 (21A329) → 17.0.1 (21A340)](diffs/17_0_21A329__vs_17_0_1_21A340/README.md) | [provenance](manifests/17_0_21A329__vs_17_0_1_21A340.json) |
 | `iPhone16,1` | [17.0.2 (21A350) → 17.0.3 (21A360)](diffs/17_0_2_21A350__vs_17_0_3_21A360/README.md) | [provenance](manifests/17_0_2_21A350__vs_17_0_3_21A360.json) |
